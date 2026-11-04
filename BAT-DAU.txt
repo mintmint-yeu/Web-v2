@@ -1,0 +1,11 @@
+BẢN TIN MỘC — BẢN CỘNG ĐỒNG
+
+1. Đọc HUONG-DAN-CONG-DONG-A-Z.md.
+2. Upload các file bên trong thư mục ban-tin-moc vào ROOT repository GitHub (index.html ở root).
+3. Bật / giữ GitHub Pages.
+4. Muốn đăng bài/duyệt/comment/vote thật: tạo Supabase Free, chạy backend/01-SETUP-SUPABASE.sql.
+5. Điền Project URL + Publishable Key vào assets/js/config.js (TUYỆT ĐỐI KHÔNG ĐIỀN SERVICE_ROLE).
+6. Đăng ký tài khoản quản trị, lấy User UID và thêm vào public.moderators theo hướng dẫn.
+7. Gửi bài từ gui-bai.html, duyệt từ duyet-bai.html.
+
+Lưu nháp trên trình duyệt KHÔNG có nghĩa là đã gửi bài.
